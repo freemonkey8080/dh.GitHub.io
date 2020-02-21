@@ -1,6 +1,6 @@
 ## 工具集
-[墙查询](https://www.cq5999.com/)</br>
-[短网址](http://dwz.wailian.work/)</br>
+[墙查询](https://www.cq5999.com/)  
+[短网址](http://dwz.wailian.work/)  
 [美国身份](http://haoweichi.com/)</br>
 [临时邮箱](https://t.odmail.cn/)</br>
 [临时接码](https://www.becmd.com/)</br>
