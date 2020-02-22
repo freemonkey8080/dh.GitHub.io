@@ -21,3 +21,5 @@
 [VULTR](https://my.vultr.com/)  
 [Cloudflare](https://www.cloudflare.com/)  
 [搬瓦工](https://bandwagonhost.com/)  
+
+https://hetun.best/api/v1/client/subscribe?token=9e640c0587ad7e3027acad8ed68fd487
