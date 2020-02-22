@@ -23,3 +23,5 @@
 [搬瓦工](https://bandwagonhost.com/)  
 
 https://hetun.best/api/v1/client/subscribe?token=9e640c0587ad7e3027acad8ed68fd487
+
+92P6C@6jV.a*c*JQh8bywLRnqkaP4!qP
